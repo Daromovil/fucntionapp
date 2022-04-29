@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'e374a7ae-7299-4690-bc96-1cdf2621312f'
 
   # Function app name
-  functionAppName: 'jesumepyfunctest'
+  functionAppName: 'danielmoFakeDevOpsPipelineFunction'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
